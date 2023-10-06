@@ -11,7 +11,7 @@
     <title>Blog</title>
 
     <!--ESTILOS DO PROJECT-->
-    <link rel="stylesheet" href="<?= $BASE_URL ?>/css/style.css">
+    <link rel="stylesheet" href="<?=$BASE_URL?>/css/style.css">
 
     <!-- GOOGLE FONTS -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
