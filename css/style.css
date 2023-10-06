@@ -17,12 +17,13 @@ main{
 /* NAVBAR */
 #logo{
     position: absolute;
-    top: 10;
+    top: 15px;
     left: 9.5%;
+    
 }
 
 #logo img{
-  width: 50px; 
+    width: 50px; 
 }
 
 #navbar{
@@ -40,7 +41,7 @@ main{
     padding: 5px;
 }
 
-.nav-link{
+#navbar .nav-link{
     color: white;
     text-decoration: none;
     transition: .5s;
